@@ -1,1 +1,1 @@
-﻿Sentimental-Analysis-on-Finance-data-set---NLP
+﻿**Sentimental-Analysis-on-Finance-data-set---NLP**
